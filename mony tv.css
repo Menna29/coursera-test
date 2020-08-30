@@ -1,0 +1,73 @@
+/*css*/
+#pic1_border{
+  border:2.5px solid black;
+  margin: .5em;
+  text-align: center;
+display:block;
+margin-left:0 auto;
+margin-right: 0 auto;
+
+ }
+ .contactus{
+   font-size: 0.5em;
+   color: black;
+ }
+ .log_in{
+text-align: center;
+ }
+ .sign_up{
+/*float: right;*/
+position: fixed;
+right: 5px;
+
+ }
+ .log_on{
+/* float: right;*/
+position:fixed;
+right: 70px;
+
+   }
+.Egyptian_series{
+  display: flex;
+flex-wrap:wrap;
+justify-content:center;
+  text-align: center;
+}
+#elektyar{
+  padding: .5em;
+  margin: .5em;
+}
+.Turkish_series{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  text-align:center;
+}
+.collection{
+text-align:center;
+}
+
+p {color:#000380
+
+
+;font-size: 40px;font-family: sans-serif;}
+h2 { font-size:35px; color:#0004BF; }
+h3 { font-size:35px; color:#0004BF; }
+body{ font-size:25px;color:#0006FF; }
+
+#logo{
+float: left;
+width: 160px;
+height: 120px;
+}
+#logo_log{
+  float: left;
+  width: 50px;
+  }
+
+.Films{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  text-align:center;}
+}
